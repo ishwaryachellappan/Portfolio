@@ -1,7 +1,7 @@
 # Portfolio
 An simple portfolio website
 ## html css js
-Screenshots: <br />
+Screenshots of potfolio: <br />
  https://drive.google.com/file/d/1VUsnv5X4RPVxsPIrEYA9gtHHs7C4evm8/view?usp=sharing <br />
  https://drive.google.com/file/d/1VyLFDyCRrwEoFhgETqorG4nZctCGdHv3/view?usp=sharing <br />
  https://drive.google.com/file/d/1r24-YC6aRrG6axMI5Km5WiyDhuTv3OYx/view?usp=sharing <br />
